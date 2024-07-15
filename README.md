@@ -1,1 +1,4 @@
 # Air-traffic-Optimization
+Conducted an in-depth analysis of historical flight data, examining key factors such as weather conditions, aircraft maintenance, and flight routes to optimize operations and enhance on-time performance metrics by 20%. 
+Engineered a predictive model for flight delays by applying advanced Data Analytics techniques, including Data Cleaning, Data Visualization, and Machine Learning; accurately forecasted delays, resulting in a 20% reduction in operational costs. 
+To evaluate model performance, conducted rigorous analysis of key metrics including accuracy, precision, recall, and F1-score to ensure the reliability and effectiveness of predictions.  I was also rewarded Letter of Recommendation by the Company for this project as it was one of the top 20 projects submitted.
